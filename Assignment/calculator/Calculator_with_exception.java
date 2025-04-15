@@ -84,7 +84,7 @@ public class Calculator_with_exception {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("=== Custom Calculator ===");
+        System.out.println("------------------- Custom Calculator -------------------");
         System.out.print("Enter first number: ");
         int a = scanner.nextInt();
         System.out.print("Enter second number: ");
